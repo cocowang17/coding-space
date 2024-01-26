@@ -15,3 +15,5 @@ province = random.choice(provinces)
 
 # 显示选中的省份名称
 print("你选中的省份是：", province)
+
+print('end')
